@@ -1,2 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igorsaulo&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorsaulo&layout=compact)](https://github.com/Igorsaulo/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/Igorsaulo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorsaulo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorsaulo&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
